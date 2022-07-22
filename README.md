@@ -9,4 +9,5 @@ used by an authority to monitor people in the building.
 ### A REST API: 
 Used as a middle man between the 3 systems and a NoSQL database. The Rest API was hosted on Heroku (a cloud platform), allowing it to be accessible from anywhere.
 
+# System Architecture
 ![System Architecture](https://github.com/TakudzwaMzembegwa/CovidManagement/blob/main/Assets/Images/architecture.png).
