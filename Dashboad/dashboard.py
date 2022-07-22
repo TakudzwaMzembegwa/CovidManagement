@@ -161,7 +161,7 @@ def update_indicator(value):
         mode="gauge+number",
         title={'text': "Students in Lab C"},
         gauge={'axis': {'range': [None, 25]},
-               'threshold': {'line': {'color': "red", 'width': 4}, 'thickness': 0.75, 'value': 20}}))
+               'threshold': {'line': {'color': "red", 'width': 4}, 'thickness': 0.75, 'value': 21}}))
     return fig
 
 
